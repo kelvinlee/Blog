@@ -15,4 +15,4 @@ div2
 
 测试版本: 安卓 4.2.2
 
-stackoverflow 有人提问过: !(传送门)[http://stackoverflow.com/questions/5472802/css-z-index-lost-after-webkit-transform-translate3d]
+stackoverflow 有人提问过: [传送门](http://stackoverflow.com/questions/5472802/css-z-index-lost-after-webkit-transform-translate3d)
